@@ -1,0 +1,36 @@
+{
+  "name": "pbdesk-gulp-startup",
+  "version": "1.0.0",
+  "description": "Gulp Startup Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PBDeskIO/pbdesk-gulp-startup.git"
+  },
+  "author": "Pinal Bhatt <self@pbdesk.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PBDeskIO/pbdesk-gulp-startup/issues"
+  },
+  "homepage": "https://github.com/PBDeskIO/pbdesk-gulp-startup#readme",
+  "devDependencies": {
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-autoprefixer": "^2.1.0",
+    "gulp-if": "^1.2.5",
+    "gulp-jscs": "^1.5.1",
+    "gulp-jshint": "^1.10.0",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-mocha": "^2.0.1",
+    "gulp-nodemon": "^2.0.3",
+    "gulp-print": "^1.1.0",
+    "gulp-task-listing": "^1.0.0",
+    "gulp-util": "^3.0.4",
+    "jshint-stylish": "^1.0.1",
+    "require-dir": "^0.3.0",
+    "yargs": "^3.7.2"
+  }
+}
